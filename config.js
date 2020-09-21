@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Learn It Yourself',
-    photo: '/photo.jpg',
+    photo: '/LIY.PNG',
     bio: 'Help you learn new things in engineering way',
     contacts: {
       email: '',
