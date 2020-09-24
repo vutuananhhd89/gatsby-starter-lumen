@@ -1,54 +1,27 @@
 ---
-title: "A Brief History of Typography"
-date: "2016-02-02T22:40:32.169Z"
-template: "post"
+template: post
+slug: is-your-team-agile
 draft: false
-slug: "a-brief-history-of-typography"
-category: "Design Inspiration"
+socialImage: /media/image-0.jpg
+title: Is Your team Agile?
+date: 2020-09-24T14:26:35.468Z
+description: "It is my concern when running a couple of Teams/ Projects in my
+  current company. We call our customized way of working “Scrum” but with much
+  more internal processes need to be followed. Then, I feel like the traditional
+  bureaucracy is dominating Agile/ Scrum core values at a certain level that
+  brings a question: are we doing Agile/ Scrum or not at all?"
+category: Agile
 tags:
-  - "Linotype"
-  - "Monotype"
-  - "History of typography"
-  - "Helvetica"
-description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
-socialImage: "/media/image-0.jpg"
+  - Agile
+  - Agile mindset
+  - Agile principles
 ---
+It is my concern when running a couple of Teams/ Projects in my current company. We call our customized way of working “Scrum” but with much more internal processes need to be followed. Then, I feel like the traditional bureaucracy is dominating Agile/ Scrum core values at a certain level that brings a question: are we doing Agile/ Scrum or not at all?
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
+As a Project Manager, I still need to ensure that my project way of working complies with Company standards. And as an Agile Practitioner, I am aware that underlying those standard processes, the Agile mindset, principles are more important to support how the team, people make the right decisions. And making more right decision bring more value to customers, satisfying the team and company itself.
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.
+Then, to answer the question is your project Agile, we should answer whether we have built a common mindset and principles as a foundation for team and people to make more right decisions. Agile manifesto with 4 core values is a good start for everyone to begin with a short and easy to remember guidance. Then, whenever an important decision is about to be made, the team should reflect on those mantras and understand why that decision is made that way. After a while, the common foundation is reinforced by the team and they share the same understanding, believes to move forward. 
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-0.jpg)
+Process, on the other hand, should be more flexible and adapting to the nature of each project. It should also be tailored by the team gradually based on team common principles. The adjustment should be from small steps for everyone to follow easily and understand why it is happening like that. It should not be a big bang change such as overriding traditional processes to follow a new agile one. It is more like building a common sense among teammates and the team itself will make decisions throughout its journey. 
 
-## Header Level 2
-
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. 
-
-<figure>
-	<blockquote>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
-		<footer>
-			<cite>— Aliquam tincidunt mauris eu risus.</cite>
-		</footer>
-	</blockquote>
-</figure>
-
-### Header Level 3
-
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
-
-```css
-#header h1 a {
-  display: block;
-  width: 300px;
-  height: 80px;
-}
-```
-
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+In summary, to answer the question is your team/ project agile, we should figure out whether the team has built a solid foundation to make decisions as a team; whether the team has a common sense, shared believes, principles, when interacting with each other and external stakeholders in day to day work. And again, any traditional processes or applied frameworks do not stop us to be agile. We can start from that point and continue to improve from it with more right decisions made by the team.
