@@ -2,7 +2,7 @@
 template: post
 title: How to handle 4 Product Owner anti-patterns
 slug: how-to-handle-4-product-owner-anti-patterns
-draft: true
+draft: false
 date: 2020-10-03T15:13:34.719Z
 description: Product owner is the key role to lead agile/ scrum teams to success
   that brings value to customers. It is also a very challenging responsibility
