@@ -9,7 +9,7 @@ description: "Culture can be understood as social beliefs, norms, behaviors that
   will decide how members collaborate with teammates to get works done.
   Understanding team culture is the key to help your team succeed and maintain
   high performance. "
-category: Team building
+category: Team Building
 tags:
   - Team culture
   - organization culture
