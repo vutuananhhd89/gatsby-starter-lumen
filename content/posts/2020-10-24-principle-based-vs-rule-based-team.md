@@ -16,7 +16,6 @@ category: Team Building
 tags:
   - Principles
   - principle-based approach
-  - ""
 ---
 # Background
 
