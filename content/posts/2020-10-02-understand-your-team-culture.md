@@ -13,7 +13,6 @@ category: Team building
 tags:
   - Team culture
   - organization culture
-  - ""
 ---
 # **Background**
 
