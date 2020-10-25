@@ -16,13 +16,17 @@ module.exports = {
       path: '/'
     },
     {
+      label: 'Agile Talk',
+      path: '/pages/AgileTalk'
+    },
+    {
+      label: 'Dev Talk',
+      path: '/pages/DevTalk'
+    },
+    {
       label: 'About Us',
       path: '/pages/about'
     },
-    {
-      label: 'DevTalk',
-      path: '/pages/DevTalk'
-    }
   ],
   author: {
     name: 'Learn It Yourself',

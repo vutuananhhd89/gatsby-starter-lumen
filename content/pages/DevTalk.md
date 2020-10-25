@@ -1,19 +1,15 @@
 ---
 title: "Dev Talk"
 template: "page"
-socialImage: "/media/image-4.jpg"
+socialImage: "/media/peer-learning.jpeg"
 ---
+<https://meet.google.com/soy-hbxh-fvh>
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+Weekly sharing & peer learning for DEVs & Product People
 
-![Desc pic](/media/image-4.jpg)
-
-*Desc shown pic*
-
-## Header Level 2
-
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
-
-+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-+ Vestibulum auctor dapibus neque.
+**Objectives:**
++ Master Technical concepts by explaining & guiding others
++ Foster Discipline to continuous learning
++ Make friends, practice English & presentation skills
+![Dev Talk](/media/peer-learning.jpeg)
+*Dev Talk - Weekly Sharing*
