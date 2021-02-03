@@ -30,7 +30,7 @@ module.exports = {
   ],
   author: {
     name: 'Learn It Yourself',
-    photo: '/LIY.PNG',
+    photo: '/Logo-PMI-VN-square.png',
     bio: 'Help you learn new things in engineering way',
     contacts: {
       email: '',
